@@ -14,5 +14,6 @@ DOMAIN-SUFFIX,secret-cinema.pw
 DOMAIN-SUFFIX,landof.tv
 DOMAIN-SUFFIX,opsfet.ch
 DOMAIN-SUFFIX,flro.org
+DOMAIN-SUFFIX,blockme.site
 DOMAIN-SUFFIX,i.hosted.panopto.com
 IP-CIDR,172.15.0.0/16,no-resolve
